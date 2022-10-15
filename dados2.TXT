@@ -1,0 +1,24 @@
+
+ ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+ ±C L Q T I W O R D I W P T K U I±±± ASM                 ± 
+ ±J O L Y J V N L I D A R P H S N±±± COMPUTADOR          ±
+ ±A T M Q E S F P H S W O I D E F±±± MOV                 ±
+ ±S G M P C Q Y P S P Z G R I W O±±± PROGRAMACAO         ±
+ ±S C F K U A D E I S U R A G O R±±± TECNOLOGIAS         ±
+ ±E T D R B T M F S W Y A G F I M±±± ASSEMBLY            ±
+ ±M W U I T B A C T O P M B Y T A±±± INFORMATICA         ±
+ ±B P S M L F I D O O Q A T R V T±±± TAC                 ±
+ ±L E L M O V C X O R U C B A C I±±± DEIS                ±
+ ±Y E Q R V B Y D M R T A H I W C±±± ISEC                ±
+ ±T E C N O L O G I A S O O V C A±±± BYTE                ±
+ ±B S F P H S V I S E C N X O V Q±±± WORD                ±
+ ±K T A C O K L W S J P A S W Y A±±±                     ±
+ ±J M L A S M I T B Y T E R U I N±±±                     ±
+ ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+ ±  ±±  ±±  ±±  ±±  ±±  ENTER para assinalar uma letra  ±±
+ ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+ ±  ±±  ±±  ±±  ±±  ±±  ESC para sair                   ±±
+ ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+ TEMPO:  /100                                 NIVEL:
+ TENTATIVAS:                            ENCONTRADAS:
+ PONTUACAO:

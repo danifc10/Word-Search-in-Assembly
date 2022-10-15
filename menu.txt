@@ -1,0 +1,15 @@
+
+    	SS\      SS\ SSSSSSSS\ SS\   SS\ SS\   SS\ 
+	SSS\    SSS |SS  _____|SSS\  SS |SS |  SS |
+	SSSS\  SSSS |SS |      SSSS\ SS |SS |  SS |
+	SS\SS\SS SS |SSSSS\    SS SS\SS |SS |  SS |
+	SS \SSS  SS |SS  __|   SS \SSSS |SS |  SS |
+	SS |\S  /SS |SS |      SS |\SSS |SS |  SS |
+	SS | \_/ SS |SSSSSSSS\ SS | \SS |\SSSSSS  |
+	\__|     \__|\________|\__|  \__| \______/ 
+
+
+
+                       1 - JOGAR 
+                       2 - TOP10
+                       3 - SAIR

@@ -1,0 +1,22 @@
+
+
+ ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+ ±C O M P U T A D O R E P±±± ASM                         ± 
+ ±A O L Y D V N L I D U R±±± PROGRAMACAO                 ±
+ ±C S M Q B P F P H U W O±±± ASSEMBLY                    ±
+ ±U A S O I Q O P Q P Z G±±± TAC                         ±
+ ±T C F E U A K Y V O Z R±±± INFORMATICA                 ±
+ ±N A D R M T A C S W Y A±±± TECNOLOGIAS                 ±
+ ±D W V I T B A H T O P M±±± MOV                         ±
+ ±P A S M Y F L P V O Q A±±± COMPUTADOR                  ±
+ ±J E L G M O V Y O R E C±±±                             ±
+ ±I N F O R M A T I C A A±±±                             ±
+ ±T E C N O L O G I A S O±±±                             ±
+ ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+ ±  ±±  ±±  ±±  ±±  ±±  ENTER para assinalar uma letra  ±±
+ ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+ ±  ±±  ±±  ±±  ±±  ±±  ESC para sair                   ±±
+ ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+ TEMPO:  /100                                  NIVEL:
+ TENTATIVAS:                             ENCONTRADAS:
+ PONTUACAO:
