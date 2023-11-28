@@ -1,3 +1,3 @@
 # AssemblySopaLetras
 
-sopa de letras em assembly cadeira tecnologias e arquitetras de computadores 2021
+Pratical work of computer technologies and architectures, 1st year Computer Engineering degree
